@@ -1,5 +1,6 @@
 # aggressive_normalization_jp
 Converts uncommon characters to common characters or replaces them with empty characters.  
+Assuming Japanese language.
 I made it to study ruby gems.  
 
 ## Installation
